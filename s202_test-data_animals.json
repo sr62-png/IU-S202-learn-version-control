@@ -1,0 +1,32 @@
+[
+  {
+    "commonName": "African Elephant",
+    "scientificName": "Loxodonta africana",
+    "habitat": "Savanna, grasslands, and forests",
+    "description": "The largest land animal, known for its large ears and tusks, and highly social behavior."
+  },
+  {
+    "commonName": "Bald Eagle",
+    "scientificName": "Haliaeetus leucocephalus",
+    "habitat": "Near large bodies of open water with abundant food supply",
+    "description": "A powerful bird of prey and the national bird of the United States, recognized by its white head and tail."
+  },
+  {
+    "commonName": "Green Sea Turtle",
+    "scientificName": "Chelonia mydas",
+    "habitat": "Tropical and subtropical oceans, coastal areas",
+    "description": "A large, long-lived marine turtle with a smooth shell and herbivorous diet as an adult."
+  },
+  {
+    "commonName": "Emperor Penguin",
+    "scientificName": "Aptenodytes forsteri",
+    "habitat": "Antarctic coasts and pack ice",
+    "description": "The largest species of penguin, known for enduring harsh Antarctic winters to breed on ice."
+  },
+  {
+    "commonName": "Red Kangaroo",
+    "scientificName": "Macropus rufus",
+    "habitat": "Australian deserts and open grasslands",
+    "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  }
+]
