@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Snow goose",
+    "scientificName": "Anser caerulescens",
+    "habitat": "North America",
+    "description": "A specicies of goose native to North America with white and dark colorings"
   }
 ]
