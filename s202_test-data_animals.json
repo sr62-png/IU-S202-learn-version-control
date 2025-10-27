@@ -34,5 +34,11 @@
     "scientificName": "Anser caerulescens",
     "habitat": "North America",
     "description": "A specicies of goose native to North America with white and dark colorings"
+  },
+  {
+    "commonName": "Canada goose",
+    "scientificName": "Branta canadensis",
+    "habitat": "Artic and temperate regions of North America",
+    "description": "A large species of goose with a black head, white cheeks, and a brown body"
   }
 ]
